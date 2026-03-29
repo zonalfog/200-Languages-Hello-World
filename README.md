@@ -163,7 +163,6 @@ Found a missing programming language? Contributions are welcome!
 
 - **Total Languages**: 200+
 - **File Extensions**: 150+
-- **Categories**: 12+
 - **Last Updated**: 2026
 
 ## License
