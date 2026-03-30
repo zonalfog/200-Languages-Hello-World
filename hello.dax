@@ -1,0 +1,4 @@
+# DAX (Data Analysis Expressions)
+# Simplified representation
+EVALUATE
+ROW ( "Hello, World!" )

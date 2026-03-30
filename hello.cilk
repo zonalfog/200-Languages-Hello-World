@@ -1,0 +1,7 @@
+// Cilk (also Cilk++ and Cilk plus)
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}

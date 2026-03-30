@@ -1,0 +1,3 @@
+# Constraint Handling Rules (CHR)
+# Simplified representation
+hello :- write('Hello, World!'), nl.

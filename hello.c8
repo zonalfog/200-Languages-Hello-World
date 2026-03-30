@@ -1,0 +1,10 @@
+# CHIP-8
+# Simplified representation
+# This would normally be bytecode
+# Text representation:
+LOAD V0, "H"
+LOAD V1, "e"
+LOAD V2, "l"
+LOAD V3, "l"
+LOAD V4, "o"
+# ... display routine

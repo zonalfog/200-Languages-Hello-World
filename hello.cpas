@@ -1,0 +1,6 @@
+# Concurrent Pascal
+# Simplified representation
+PROGRAM Hello;
+BEGIN
+  WriteLn('Hello, World!')
+END.
