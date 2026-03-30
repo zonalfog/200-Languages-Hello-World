@@ -202,7 +202,7 @@ Also Some files might look unusual. For example, hello.ws (Whitespace) consists 
 | [No Link] | Adenine |
 | [No Link] | AdvPL |
 | [https://github.com/agda/agda-stdlib] | Agda |
-| [https://de.4d.com/product-download/Feature-Release] | 4D |
+| [No Link] | Agora |
 | [https://de.4d.com/product-download/Feature-Release] | 4D |
 | [https://de.4d.com/product-download/Feature-Release] | 4D |
 | [https://de.4d.com/product-download/Feature-Release] | 4D |
