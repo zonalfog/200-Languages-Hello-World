@@ -1,11 +1,11 @@
-# Hello World in 200+ Programming Languages
+# Hello World in 400+ Programming Languages
 
-This project contains "Hello, World!" programs written in over 200 different programming languages and file formats, each saved with their appropriate file extensions.
+This project contains "Hello, World!" programs written in over 400 different programming languages and file formats, each saved with their appropriate file extensions.
 
 ## About This Collection
 
 This is one of the most comprehensive collections of "Hello, World!" programs available, featuring:
-- **200+ programming languages** and file formats
+- **400+ programming languages** and file formats
 - **Historical languages** (ALGOL, COBOL, Fortran)
 - **Modern languages** (Rust, Go, Swift, Kotlin)
 - **Esoteric languages** (Brainfuck, Chef, Malbolge)
@@ -147,7 +147,7 @@ ruby hello.rb
 ├── hello.chef        # Chef
 ├── hello.ws          # Whitespace
 ├── README.md         # This file
-└── ...              # 200+ more files!
+└── ...              # 400+ more files!
 ```
 
 ## Contributing
@@ -161,7 +161,7 @@ Found a missing programming language? Contributions are welcome!
 
 ## Statistics
 
-- **Total Languages**: 200+
+- **Total Languages**: 400+
 - **File Extensions**: 150+
 - **Last Updated**: 2026
 
