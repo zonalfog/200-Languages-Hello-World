@@ -215,7 +215,7 @@ Also Some files might look unusual. For example, hello.ws (Whitespace) consists 
 | [https://www.ps.uni-saarland.de/alice/download.html] | Alice ML |
 | [https://ir.cwi.nl/pub/10464] | Alma-0 |
 | [No Link] | AmigaBASIC |
-| [https://de.4d.com/product-download/Feature-Release] | 4D |
+| [https://wiki.c2.com/?AmigaEe] | Amiga E |
 | [https://de.4d.com/product-download/Feature-Release] | 4D |
 | [https://de.4d.com/product-download/Feature-Release] | 4D |
 | [https://de.4d.com/product-download/Feature-Release] | 4D |
