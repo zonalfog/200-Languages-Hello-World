@@ -1,0 +1,3 @@
+# YQL
+# Simplified representation
+SELECT "Hello, World!" as message

@@ -1,0 +1,7 @@
+# XBL (XML Binding Language)
+<?xml version="1.0"?>
+<bindings xmlns="http://www.mozilla.org/xbl">
+  <binding id="hello">
+    <content>Hello, World!</content>
+  </binding>
+</bindings>

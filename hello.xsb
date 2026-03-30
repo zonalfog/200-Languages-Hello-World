@@ -1,0 +1,3 @@
+# XSB
+# Simplified representation
+write('Hello, World!'), nl.

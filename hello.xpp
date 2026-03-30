@@ -1,0 +1,5 @@
+# X++ (X plus plus/Microsoft Dynamics AX)
+static void Hello(Args _args)
+{
+    print "Hello, World!";
+}

@@ -1,0 +1,5 @@
+# XPL0
+PROCEDURE Hello;
+BEGIN
+  Text(0, "Hello, World!")
+END;

@@ -1,0 +1,3 @@
+# ZetaLisp
+# Simplified representation
+(print "Hello, World!")
