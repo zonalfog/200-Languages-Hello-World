@@ -189,7 +189,7 @@ Also Some files might look unusual. For example, hello.ws (Whitespace) consists 
 | [https://github.com/Jamesbarford/holyc-lang] | Holy C |
 | [No Link] | ALGOL 58 |
 | [No Link] | ALGOL 60 |
-| [https://de.4d.com/product-download/Feature-Release] | 4D |
+| [https://jmvdveer.home.xs4all.nl/en.download.algol-68-genie-current.html] | ALGOL 68 |
 | [https://de.4d.com/product-download/Feature-Release] | 4D |
 | [https://de.4d.com/product-download/Feature-Release] | 4D |
 | [https://de.4d.com/product-download/Feature-Release] | 4D |
